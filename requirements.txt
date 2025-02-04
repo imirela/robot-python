@@ -1,7 +1,6 @@
-fuzzywuzzy
-Flask
-nltk
-openai-whisper
-TTS
-apcy
-python-Levenshtein
+fuzzywuzzy==0.18.0
+Flask==3.1.0
+nltk==3.9.1
+openai-whisper==20240930
+TTS==0.22.0
+python-Levenshtein==0.12.2
