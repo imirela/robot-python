@@ -1,0 +1,7 @@
+fuzzywuzzy
+Flask
+nltk
+openai-whisper
+TTS
+apcy
+python-Levenshtein

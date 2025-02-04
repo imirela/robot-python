@@ -1,0 +1,50 @@
+﻿Phone appointments: 0777777777 or 0777777777 <noscript>w=1,schedule, schedule me</noscript> <button onclick="document.getElementById('player').pause()">Pause</button>Ask me questions about my business!<noscript> your, do you do, your name, are, question, you, do </noscript>
+
+Don't understand, rephrase the question<noscript>doctor, consultation, </noscript>
+
+Synlab Laboratory Monday-Friday: 8.00-11.00 Floor 3<noscript>w=2, analyses, blood</noscript><audio id="2" controls autoplay><source src="static/2.mp3" type="audio/mpeg"></audio>
+
+Neurology, Dr. Maria Ionescu  Senior physician neurologist Monday, Wednesday: 1:00 p.m.-8:00 p.m. Tuesday, Thursday, Friday: 7:00 a.m.-2:00 p.m. Ground floor<noscript>w=3</noscript><audio id="3" controls autoplay><source src="static/3.mp3" type="audio/mpeg"></audio>
+
+Primary care physician, Dr. Sanda Alexandru. Senior physician skills: General Ultrasonographyand Palliative Care Wednesday, Friday: 8:00 a.m.-1:00 a.m. Monday, Tuesday, Thursday: 3:00 p.m.-8:00 p.m. Assistant: Ileana Tudor Ground floor<noscript>w=4</noscript><audio id="4" controls autoplay><source src="static/4.mp3" type="audio/mpeg"></audio>
+
+Dr. Marin Predescu. Senior physician endocrinologist. Monday, Wednesday, Friday: 7:00-14:00 Tuesday, Thursday: 12:00-19:00Floor 1. Endocrinology and ultrasound <noscript>w=5</noscript><audio id="5" controls autoplay><source src="static/5.mp3" type="audio/mpeg"></audio>
+
+<button class="audio-control" id="muteButton">🔊</button>Dermatology. Dr. Tatiana Tarciatu. Senior physician dermatologist, skills: dermatoscopy, laser, dermatological surgery. Monday, Wednesday, Friday: 2-7pm Tuesday, Thursday: 9am-1pm First floor<noscript>w=6, skin</noscript><audio id="6" controls autoplay><source src="static/6.mp3" type="audio/mpeg"></audio>
+
+Dr. Gabriela Marinescu. Senior physician ENT physician Monday, Wednesday, Friday: 8.00-13.00 Tuesday, Thursday: 14.00-18.00 Endoscope Audiometer Aerosol Device Therapeutic Laser Nasal and auricular endoscopic examinations, Tone audiograms Floor 1.<noscript>w=7, ears, ears, nose</noscript><audio id="7" controls autoplay><source src="static/3.mp3" type="audio/mpeg"></audio>
+
+<button class="audio-control" id="muteButton">Ophthalmology. Dr. Ioana Tudora Senior physician ophthalmologist. Monday, Wednesday, Friday: 9.00-13.00Tuesday, Thursday: 15.00-19.00Floor 3<noscript>w=8, eyes, glasses</noscript><audio id="8" controls autoplay><source src="static/8.mp3" type="audio/mpeg"></audio>
+
+Spain. Capital: Madrid Official language: Spanish Area: 505 983 km2. Population: 48 610 458<noscript>w=9, Spaniards</noscript><audio id="9" controls autoplay><source src="static/9.mp3" type="audio/mpeg"></audio>
+
+France. Capital: Paris Official language: French Area: 638 475 km2 Population: 68 401 997 (2024)<noscript>w=10</noscript><audio id="10" controls autoplay><source src="static/10.mp3" type="audio/mpeg"></audio>
+
+Germany Capital: Berlin Official language: German Area: 357,569 km2Population: 83,445,000 (2024)<noscript>w=11, Germans </noscript><audio id="11" controls autoplay><source src="static/11.mp3" type="audio/mpeg"></audio>
+
+Greece. Capital: AthensOfficial language: GreekArea: 131,694 km2Population: 10,397,193 (2024)<noscript>w=12</noscript><audio id="12" controls autoplay><source src="static/12.mp3" type="audio/mpeg"></audio>
+
+Italy. Capital: RomeLanguage official: ItalianArea: 302,073 km2Population: 58,989,749 (2024)<noscript>w=24</noscript><audio id="24" controls autoplay><source src="static/24.mp3" type="audio/mpeg"></audio>
+
+Laptop ASUS Vivobook Go 15 L1504FA-BQ840, AMD Ryzen 5 7520U up to 4.3GHz, 15.6" Full HD, 16GB, 512GB SSD, AMD Radeon 610M, Free Dos, Mixed Black1899.90 lei<noscript>w=13</noscript><audio id="13" controls autoplay><source src="static/13.mp3" type="audio/mpeg"></audio>
+
+Television QLED, Ultra HD, 4K Smart 55QE1D, <noscript>w=14, TV</noscript><audio id="14" controls autoplay><source src="static/14.mp3" type="audio/mpeg"></audio>
+
+Slippers, pink, with arabesques4.99 lei<noscript>w=15</noscript><audio id="15" controls autoplay><source src="static/15.mp3" type="audio/mpeg"></audio><audio id="15" controls autoplay><source src="static/15.mp3" type="audio/mpeg"></audio>
+
+Two-door refrigerator VORTEX VDD21SWH02H, 206 l, H 143 cm, Class , white799.90 lei<noscript>w=16</noscript><audio id="16" controls autoplay><source src="static/16.mp3" type="audio/mpeg"></audio>
+
+Megadoor Prestige 1 Lux M41 metal interior door, left, pearl black, 200 x 88 cm1599 lei<noscript>w=17</noscript><audio id="17" controls autoplay><source src="static/17.mp3" type="audio/mpeg"></audio>
+
+
+Dr. Laura Bacanu. Specialist MD Ophthalmologist. Monday, Thursday: 2:00 PM-9:00 PM Tuesday, Wednesday, Friday: 7:00 AM-2:00 PM Floor 3<noscript><noscript>w=18, vision</noscript><audio id="18" controls autoplay><source src="static/18.mp3" type="audio/mpeg"></audio>
+
+Dr. Mihaela Tocilescu Primary Care Physician Monday, Wednesday, Friday: 2:00 PM-7:00 PM Tuesday: 8:00 AM-1:00 PM Thursday: 7:00 AM-8:00 PM Floor 3<noscript>w=19</noscript><audio id="19" controls autoplay><source src="static/19.mp3" type="audio/mpeg"></audio>
+
+Surgery. Dr. Eugen Nicolau <img src="static/images/medic.jpg">Chief physician surgeonMonday, Wednesday, Friday: 13.00-20.00Tuesday, Thursday: 7.00-14.00<noscript>w=20</noscript><audio id="20" controls autoplay><source src="static/20.mp3" type="audio/mpeg"></audio>
+
+Expertise committee. Dr. Daniela Serbanica Chief physician,Monday, Tuesday, Wednesday: 8.00-13.00 Floor 3<noscript><noscript>w=21,work, vacation</noscript><audio id="21" controls autoplay><source src="static/21.mp3" type="audio/mpeg"></audio>
+
+Expertise Commission Dr. Rodica Andrei Senior physician, Monday, Tuesday, Wednesday, Friday: 7.00-14.00 Floor 3<noscript>w=22, certificate, retirement</noscript><audio id="22" controls autoplay><source src="static/22.mp3" type="audio/mpeg"></audio>
+
+Clinic Address str. Floricelelor no. 2, Bucharest Public transport lines: Metro Line I and Line II, buses: 300, 381, 783 (Victoriei Square)Tram: 34, bus: 181 (Iancu de Hunedoara Blvd.-Victoria Passage) <noscript>w=23</noscript><audio id="23" controls autoplay><source src="static/23.mp3" type="audio/mpeg"></audio>
